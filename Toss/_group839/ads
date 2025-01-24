@@ -1,0 +1,53 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = new Object(); 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=BAsebU3FoT9qhH4OS_Qa-h5Fx0oLT1APCgqraM8CNtwHg7p4CEAEYASCf6pYKKAM4AFCV4qSX-_____8BYHGgAcbjtt4DsgEQdXNsdWdpLnNsYW5kby5iecgBAdoBbGh0dHA6Ly91c2x1Z2kuc2xhbmRvLmJ5L21pbnNrX2NpdHkvcHJvdm9kaXRzeWEtbmFib3ItZGV0ZXktdi1zZWt0c2l5dS1wby1zcG9ydGl2bm95LWFlcm9iaWtlX1BfNDEwMTYzMTIuaHRtbKkCn3gEYVFaYj7IApK0yjCoAwHoA-gH6AOCBPUDAAAAxPUDAAAAEIgGAQ&amp;num=1&amp;cid=5Gix6J2o3l38xdH2bCECCbnz&amp;sig=AOD64_3y_sTpKmiTBPaeQDhnJsjql-KfQQ&amp;client=ca-pub-5344588504059345&amp;adurl=http://mti.edu.ru/it/%3Futm_source%3Dgoogle_adw%26utm_medium%3Dcpc%26utm_campaign%3Dsng_set_it"; 
+google_ad.visible_url = "mti.edu.ru"; 
+google_ad.line1 = "\x26#1055;\x26#1077;\x26#1088;\x26#1077;\x26#1087;\x26#1086;\x26#1076;\x26#1075;\x26#1086;\x26#1090;\x26#1086;\x26#1074;\x26#1082;\x26#1072; IT"; 
+google_ad.line2 = "\x26#1055;\x26#1086;\x26#1076;\x26#1075;\x26#1086;\x26#1090;\x26#1086;\x26#1074;\x26#1082;\x26#1072; IT-\x26#1089;\x26#1087;\x26#1077;\x26#1094;\x26#1080;\x26#1072;\x26#1083;\x26#1080;\x26#1089;\x26#1090;\x26#1086;\x26#1074;."; 
+google_ad.line3 = "\x26#1054;\x26#1095;\x26#1085;\x26#1086; \x26#1080; \x26#1076;\x26#1080;\x26#1089;\x26#1090;\x26#1072;\x26#1085;\x26#1094;\x26#1080;\x26#1086;\x26#1085;\x26#1085;\x26#1086;. \x26#1048;\x26#1076;\x26#1077;\x26#1090; \x26#1085;\x26#1072;\x26#1073;\x26#1086;\x26#1088;!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=B_gk1U3FoT9qhH4OS_Qa-h5Fxi4T8uALjhLv9FcCNtwGAvpIBEAIYAiCf6pYKKAM4AFDm4drB-_____8BYHGgAc2ukuUDsgEQdXNsdWdpLnNsYW5kby5iecgBAdoBbGh0dHA6Ly91c2x1Z2kuc2xhbmRvLmJ5L21pbnNrX2NpdHkvcHJvdm9kaXRzeWEtbmFib3ItZGV0ZXktdi1zZWt0c2l5dS1wby1zcG9ydGl2bm95LWFlcm9iaWtlX1BfNDEwMTYzMTIuaHRtbIACAakC90X8sx3tbD6oAwHoA-gH6AOCBPUDAAAAxPUDAAAAEIgGAQ&amp;num=2&amp;cid=5Gix6J2o3l38xdH2bCECCbnz&amp;sig=AOD64_18bjaVZuBL26Qy9X-i4XFK5cIs4A&amp;client=ca-pub-5344588504059345&amp;adurl=http://www.skola7.ru"; 
+google_ad.visible_url = "skola7.ru"; 
+google_ad.line1 = "\x26#1063;\x26#1077;\x26#1096;\x26#1089;\x26#1082;\x26#1072;\x26#1103; \x26#1096;\x26#1082;\x26#1086;\x26#1083;\x26#1072; \x26#1076;\x26#1083;\x26#1103; \x26#1074;\x26#1089;\x26#1077;\x26#1093;"; 
+google_ad.line2 = "\x26#1055;\x26#1086;\x26#1089;\x26#1090;\x26#1091;\x26#1087;\x26#1083;\x26#1077;\x26#1085;\x26#1080;\x26#1077; \x26#1074; \x26#1095;\x26#1077;\x26#1096;\x26#1089;\x26#1082;\x26#1080;\x26#1081; \x26#1042;\x26#1059;\x26#1047;"; 
+google_ad.line3 = "\x26#1073;\x26#1077;\x26#1079; \x26#1101;\x26#1082;\x26#1079;\x26#1072;\x26#1084;\x26#1077;\x26#1085;\x26#1086;\x26#1074;"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 3; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://googleads.g.doubleclick.net/aclk?sa=L&amp;ai=BjpB6U3FoT9qhH4OS_Qa-h5Fx8uzHpwPa-ZGEHcCNtwHwyXQQAxgDIJ_qlgooAzgAUN_dson______wFgcbIBEHVzbHVnaS5zbGFuZG8uYnnIAQHaAWxodHRwOi8vdXNsdWdpLnNsYW5kby5ieS9taW5za19jaXR5L3Byb3ZvZGl0c3lhLW5hYm9yLWRldGV5LXYtc2VrdHNpeXUtcG8tc3BvcnRpdm5veS1hZXJvYmlrZV9QXzQxMDE2MzEyLmh0bWyAAgGpAp94BGFRWmI-yAKajqQrqAMB6APoB-gDggT1AwAAAMT1AwAAABA&amp;num=3&amp;sig=AOD64_1ZINc46pGEW6L19vhBWQzSztcz5Q&amp;client=ca-pub-5344588504059345&amp;adurl=http://www.alendvic.ru/partners/franchising/"; 
+google_ad.visible_url = "www.alendvic.ru"; 
+google_ad.line1 = "\x26#1050;\x26#1072;\x26#1082; \x26#1086;\x26#1090;\x26#1082;\x26#1088;\x26#1099;\x26#1090;\x26#1100; \x26#1088;\x26#1077;\x26#1089;\x26#1090;\x26#1086;\x26#1088;\x26#1072;\x26#1085;"; 
+google_ad.line2 = "\x26#1060;\x26#1088;\x26#1072;\x26#1085;\x26#1095;\x26#1072;\x26#1081;\x26#1079;\x26#1080;\x26#1085;\x26#1075; - \x26#1088;\x26#1077;\x26#1096;\x26#1077;\x26#1085;\x26#1080;\x26#1077; \x26#8470;1 \x26#1074; \x26#1084;\x26#1080;\x26#1088;\x26#1077;!"; 
+google_ad.line3 = "\x26#1053;\x26#1080;\x26#1079;\x26#1082;\x26#1080;\x26#1081; \x26#1088;\x26#1080;\x26#1089;\x26#1082;, \x26#1073;\x26#1099;\x26#1089;\x26#1090;\x26#1088;\x26#1072;\x26#1103; \x26#1086;\x26#1082;\x26#1091;\x26#1087;\x26#1072;\x26#1077;\x26#1084;\x26#1086;\x26#1089;\x26#1090;\x26#1100;."; 
+google_ad.regionname = ""; 
+google_ads[2] = google_ad; 
+google_info.feedback_url = "http://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://uslugi.slando.by/minsk_city/provoditsya-nabor-detey-v-sektsiyu-po-sportivnoy-aerobike_P_41016312.html%26hl%3Dru%26client%3Dca-pub-5344588504059345%26adU%3Dmti.edu.ru%26adT%3D%25D0%259F%25D0%25B5%25D1%2580%25D0%25B5%25D0%25BF%25D0%25BE%25D0%25B4%25D0%25B3%25D0%25BE%25D1%2582%25D0%25BE%25D0%25B2%25D0%25BA%25D0%25B0%2BIT%26adU%3Dskola7.ru%26adT%3D%25D0%25A7%25D0%25B5%25D1%2588%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%2B%25D1%2588%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25B0%2B%25D0%25B4%25D0%25BB%25D1%258F%2B%25D0%25B2%25D1%2581%25D0%25B5%25D1%2585%26adU%3Dwww.alendvic.ru%26adT%3D%25D0%259A%25D0%25B0%25D0%25BA%2B%25D0%25BE%25D1%2582%25D0%25BA%25D1%2580%25D1%258B%25D1%2582%25D1%258C%2B%25D1%2580%25D0%25B5%25D1%2581%25D1%2582%25D0%25BE%25D1%2580%25D0%25B0%25D0%25BD%26gl%3DBY\x26usg\x3dAFQjCNG7z1ZcxnVJTfUsQeYYZzwKNB9JwQ";
+var google_attribution_text = "Реклама от Google";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

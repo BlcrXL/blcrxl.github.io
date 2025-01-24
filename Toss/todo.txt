@@ -1,0 +1,20 @@
+warning: in the working copy of 'Toss/_group1431/jsapi', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1431/rsAItRSTM_WeIKrYWu7KV8RxTlN2UmlbWKpA', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1431/rsAItRSTPfIhnMHUGaTkgT9U3fusWlkMjFDQ', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1685/css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1685/saved_resource(3)', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1685/top100.jcn', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1687/ajs.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1687/cb=gapi.loaded_0', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1687/cb=gapi.loaded_1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1687/cometchatcss.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group1687/cometchatjs.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group625/photo147059550_271278083.htm', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group831/cbgapi.loaded0', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group831/d1', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group831/d1_002', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group832/a', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group839/ads', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Toss/_group839/ads_002', LF will be replaced by CRLF the next time Git touches it
+
+DoneStage 20780 files

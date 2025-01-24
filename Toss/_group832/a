@@ -1,0 +1,45 @@
+
+  var PCStyle=document.createElement("style");
+      PCStyle.setAttribute("type","text/css");
+  var PCStyleText=" .PC_Links_Block td { padding:2px; margin:0px; vertical-align:middle } ";
+
+  var PCBlocks = [];
+
+  function PC_OnClick (Link)
+   {
+    Link.href = Link.href + "&Hours=" + (new Date).getHours() + "&Minutes=" + (new Date).getMinutes();
+    return true;
+   }
+
+
+
+  PCBlocks[49070] = "<table class=\"PC_Links_Block\" id=\"PC_Links_Block_49070\" style=\"border:#000 solid 1px; background:#fff; width:auto\" align=\"center\" onmouseover=\"document.getElementById('PC_Links_Block_49070').style.backgroundColor='#fff0d3'\" onmouseout=\"document.getElementById('PC_Links_Block_49070').style.backgroundColor='#fff'\"><tr><td style=\"vertical-align:top\"><table style=\"border-collapse:collapse; border:0px; width:auto\" align=\"left\"><tr><td id=\"PC_Img_49070_10027_Cont\"><a href=\"http://n.pay-click.ru/click/35113/35931/10027/49070/1/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\"><img src=\"http://st.pay-click.ru/data/links_block/10027_90_Guz.jpg\" alt=\"СРОЧНАЯ НОВОСТЬ: Страшная трагедия произошла с Ларисой Гузеевой!\" id=\"PC_Img_49070_10027\" style=\"width:90px; height:90px; margin:0px; padding:0px; border:#000 solid 1px\" onmouseover=\"PCImgMouseOver(this.id)\" onmouseout=\"PCImgMouseOut(this.id)\" /></a></td><td style=\"vertical-align:middle; text-align:left\"><a href=\"http://n.pay-click.ru/click/35113/35931/10027/49070/1/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\" id=\"PC_Img_49070_10027_Lnk\" class=\"PC_Lnk_49070\">СРОЧНАЯ НОВОСТЬ: Страшная трагедия произошла с Ларисой Гузеевой!</a></td></tr></table></td></tr><tr><td style=\"vertical-align:top\"><table style=\"border-collapse:collapse; border:0px; width:auto\" align=\"left\"><tr><td id=\"PC_Img_49070_13383_Cont\"><a href=\"http://n.pay-click.ru/click/35113/35931/13383/49070/2/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\"><img src=\"http://st.pay-click.ru/data/links_block/13383_3.gif\" alt=\"Как убрать ЖИР с живота за 9 дней?\" id=\"PC_Img_49070_13383\" style=\"width:90px; height:90px; margin:0px; padding:0px; border:#000 solid 1px\" onmouseover=\"PCImgMouseOver(this.id)\" onmouseout=\"PCImgMouseOut(this.id)\" /></a></td><td style=\"vertical-align:middle; text-align:left\"><a href=\"http://n.pay-click.ru/click/35113/35931/13383/49070/2/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\" id=\"PC_Img_49070_13383_Lnk\" class=\"PC_Lnk_49070\">Как убрать ЖИР с живота за 9 дней?</a></td></tr></table></td></tr><tr><td style=\"vertical-align:top\"><table style=\"border-collapse:collapse; border:0px; width:auto\" align=\"left\"><tr><td id=\"PC_Img_49070_13363_Cont\"><a href=\"http://n.pay-click.ru/click/35113/35931/13363/49070/3/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\"><img src=\"http://st.pay-click.ru/data/links_block/13363_90_13349_8[1].jpg\" alt=\"Узнай сколько детей у тебя будет и когда родится следующий! (тест)\" id=\"PC_Img_49070_13363\" style=\"width:90px; height:90px; margin:0px; padding:0px; border:#000 solid 1px\" onmouseover=\"PCImgMouseOver(this.id)\" onmouseout=\"PCImgMouseOut(this.id)\" /></a></td><td style=\"vertical-align:middle; text-align:left\"><a href=\"http://n.pay-click.ru/click/35113/35931/13363/49070/3/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\" id=\"PC_Img_49070_13363_Lnk\" class=\"PC_Lnk_49070\">Узнай сколько детей у тебя будет и когда родится следующий! (тест)</a></td></tr></table></td></tr><tr><td style=\"vertical-align:top\"><table style=\"border-collapse:collapse; border:0px; width:auto\" align=\"left\"><tr><td id=\"PC_Img_49070_13060_Cont\"><a href=\"http://n.pay-click.ru/click/35113/35931/13060/49070/4/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\"><img src=\"http://st.pay-click.ru/data/links_block/13060_90_8443_3[1].jpg\" alt=\"Ванга: 2012 год станет роковым для 4 знаков - это рыб...\" id=\"PC_Img_49070_13060\" style=\"width:90px; height:90px; margin:0px; padding:0px; border:#000 solid 1px\" onmouseover=\"PCImgMouseOver(this.id)\" onmouseout=\"PCImgMouseOut(this.id)\" /></a></td><td style=\"vertical-align:middle; text-align:left\"><a href=\"http://n.pay-click.ru/click/35113/35931/13060/49070/4/0/7-43-79-99-180-191/?p=eyJzX2hhc2giOiJQQy0yLTQ5MDcwLTk5NTg3NDE1Ny0wLjA5NTM4MTAwIDEzMzIyMzY1MjciLAogICAgICAgICAgICAgICAgICJzX251bSI6IjEiLAogICAgICAgICAgICAgICAgICJhdV9pZHMiOls3LDQzLDc5LDk5LDE4MCwxOTFdLAogICAgICAgICAgICAgICAgICJsYl9pZHMiOltdfQ%3D%3D\" rel=\"nofollow\" target=\"_blank\" onclick=\"PC_OnClick(this);\" id=\"PC_Img_49070_13060_Lnk\" class=\"PC_Lnk_49070\">Ванга: 2012 год станет роковым для 4 знаков - это рыб...</a></td></tr></table></td></tr></table>";
+
+  PCStyleText+=" .PC_Links_Block a.PC_Lnk_49070 { font-family:Arial; font-size:12px; color:#ff0000; font-weight:bold; text-decoration:none }";
+  PCStyleText+=" .PC_Links_Block a.PC_Lnk_49070:hover { font-family:Arial; font-size:12px; color:#000; font-weight:bold; text-decoration:underline }";
+  PCStyleText+=" .PC_Links_Block a.PC_Lnk_49070_Hover { font-family:Arial; font-size:12px; color:#000; font-weight:bold; text-decoration:underline }";
+
+
+  if(PCStyle.styleSheet)PCStyle.styleSheet.cssText=PCStyleText;
+  else{var PCStyleTextNode=document.createTextNode(PCStyleText);
+  PCStyle.appendChild(PCStyleTextNode)} var DocHead=document.getElementsByTagName("head")[0];
+  DocHead.appendChild(PCStyle);
+
+  for (CId in PCBlocks)
+   {
+    var PC_49070 = document.getElementById("PC_Teaser_Block_"+CId);
+    if (PC_49070==null) PC_49070 = document.getElementById("Teaser_Block_"+CId);
+
+    if ( PC_49070!=null && PC_49070.innerHTML.length<100 )
+     {
+      PC_49070.innerHTML = PCBlocks[CId]+"";
+     }
+   }
+
+  function PCImgMouseOver(a){document.getElementById(a+"_Lnk").className+="_Hover"}function PCImgMouseOut(a){CName=document.getElementById(a+"_Lnk").className;document.getElementById(a+"_Lnk").className=CName.replace(/_Hover/,"")};
+
+
+
+
+
+
